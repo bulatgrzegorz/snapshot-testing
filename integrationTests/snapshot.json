@@ -1,0 +1,16 @@
+[
+  {
+    "Address": "/Ingredients?Name=Dragon",
+    "Method": "GET",
+    "RequestBody": "",
+    "ResponseBody": "[{\u0022id\u0022:\u00221ba5cee0-8580-4f9b-9494-de677e224593\u0022,\u0022name\u0022:\u0022Dragon liver\u0022},{\u0022id\u0022:\u00226be98ab6-26d3-4935-b363-8f68936c8703\u0022,\u0022name\u0022:\u0022Dragon claw\u0022},{\u0022id\u0022:\u00227726bb5c-ed5b-4d5f-8268-1135e9b10a52\u0022,\u0022name\u0022:\u0022Dragonfly thoraxes\u0022},{\u0022id\u0022:\u0022a22783f2-8a5e-4d18-9bf4-1d04bdb98b6b\u0022,\u0022name\u0022:\u0022Dragon dung\u0022}]",
+    "StatusCode": 200
+  },
+  {
+    "Address": "/Spells?Type=Spell",
+    "Method": "GET",
+    "RequestBody": "",
+    "ResponseBody": "[{\u0022id\u0022:\u00223ba417ce-8165-464d-9f29-daf23da1b2bc\u0022,\u0022name\u0022:\u0022Albus Dumbledore\u0027s forceful spell\u0022,\u0022incantation\u0022:null,\u0022effect\u0022:\u0022Great force\u0022,\u0022canBeVerbal\u0022:null,\u0022type\u0022:\u0022Spell\u0022,\u0022light\u0022:\u0022Transparent\u0022,\u0022creator\u0022:null},{\u0022id\u0022:\u00220cc4ee69-4aa8-49e1-bb89-125793ed2e95\u0022,\u0022name\u0022:\u0022False memory spell\u0022,\u0022incantation\u0022:null,\u0022effect\u0022:\u0022Implants a false memory in the victim\u0027s mind\u0022,\u0022canBeVerbal\u0022:null,\u0022type\u0022:\u0022Spell\u0022,\u0022light\u0022:\u0022None\u0022,\u0022creator\u0022:\u0022Mnemone Radford c. 1900s (possibly)\u0022},{\u0022id\u0022:\u00225984fe39-c7e6-4ff9-ad8d-35cca813a239\u0022,\u0022name\u0022:\u0022Shield penetration spell\u0022,\u0022incantation\u0022:null,\u0022effect\u0022:\u0022Used to break down magical shields\u0022,\u0022canBeVerbal\u0022:null,\u0022type\u0022:\u0022Spell\u0022,\u0022light\u0022:\u0022BlueishWhite\u0022,\u0022creator\u0022:null},{\u0022id\u0022:\u0022e93e47e2-fcae-4c8c-ad0e-f6f4804b04b2\u0022,\u0022name\u0022:\u0022Shooting spell\u0022,\u0022incantation\u0022:null,\u0022effect\u0022:\u0022Small explosion with a gunshot-sound\u0022,\u0022canBeVerbal\u0022:null,\u0022type\u0022:\u0022Spell\u0022,\u0022light\u0022:\u0022Transparent\u0022,\u0022creator\u0022:null}]",
+    "StatusCode": 200
+  }
+]
